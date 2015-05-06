@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Vote now!"
+        android:id="@+id/vote"
+        android:layout_alignParentTop="true"
+        android:layout_below="@+id/listView"
+        android:layout_centerHorizontal="true"
+        android:background="#ffffff"/>
+
+    <ListView
+
+        android:id="@+id/listView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        >
+
+    </ListView>
+
+
+</RelativeLayout><!-- From: file:/C:/Users/monish/Music/ParseLoginTutorial-2015-03-10/ParseLoginTutorial/res/layout/candidates.xml -->

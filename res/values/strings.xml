@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, ParseStarterProjectActivity!</string>
+    <string name="app_name">VESPA</string>
+    <string name="Username">Username</string>
+    <string name="Password">Password</string>
+    <string name="LoginBtn">Login</string>
+    <string name="SignupBtn">Submit</string>
+    <string name="LogoutBtn">Log Out</string>
+    <string name="Welcome">Welcome to VESIT Polling App :)</string>
+    <string name="email">email</string>
+
+    <string-array name="clas">
+        <item>D11A</item>
+        <item>D11B</item>
+        <item>D12A</item>
+        <item>D12B</item>
+        <item>D12C</item>
+        <item>D13</item>
+        <item>D14A</item>
+        <item>D14B</item>
+        <item>D14C</item>
+        <item>D15</item>
+    </string-array>
+
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">logout</string>
+    <string name="action_results">Results</string>
+    <string name="action_Aboutus">About us</string>
+    <string name="namelabel">"Name : "</string>
+    <string-array name="candidates">
+        <item>Please select</item>
+        <item>Nilesh T</item>
+        <item>Aakash C</item>
+        <item>Monish K</item>
+    </string-array>
+    <string-array name="candies">
+        <item>Please select</item>
+        <item>Harsha J</item>
+        <item>Aanchal D</item>
+    </string-array>
+    <string-array name="boys_si">
+        <item>Please select</item>
+        <item>Brijesh M</item>
+        <item>Sidharth N</item>
+        <item>Parimal A </item>
+    </string-array>
+    <string-array name="girls_si">
+        <item>Please select</item>
+        <item>Lakshmi A </item>
+        <item>Tanvi G </item>
+        <item>Jayalakshmi</item>
+    </string-array>
+    <string-array name="boys_ci">
+        <item>Please select</item>
+        <item>Nikhil</item>
+        <item>Divesh </item>
+    </string-array>
+    <string-array name="girls_ci">
+        <item>Please select</item>
+        <item>Priyasha </item>
+        <item>Gunjan</item>
+        <item>Twisha</item>
+    </string-array>
+    <string-array name="boys_sri">
+        <item>Please select</item>
+        <item>Meet</item>
+        <item>Prashant</item>
+        <item>Salil</item>
+    </string-array>
+    <string-array name="girls_sri">
+        <item>Please select</item>
+        <item>Kalyani</item>
+        <item>Ashwini</item>
+        <item>Vibha</item>
+    </string-array>
+    <string-array name="boys_mi">
+        <item>Please select</item>
+        <item>Nikhil</item>
+        <item>Raunak</item>
+        <item>Shriyansh</item>
+    </string-array>
+    <string-array name="girls_mi">
+        <item>Please select</item>
+        <item>Disha</item>
+        <item>Nisha</item>
+    </string-array>
+
+    <string name="title_activity_signup">signup</string>
+
+
+
+    <string name="title_activity_dashboard">Dashboard</string>
+    <string name="title_activity_candidates">Candidates</string>
+
+    <string-array name="titles">
+        <item>Darsh 1</item>
+        <item>Darsh 2</item>
+        <item>Darsh 3</item>
+        <item>Darsh 4</item>
+        <item>Darsh 5</item>
+        <item>Darsh 6</item>
+        <item>Darsh 7</item>
+        <item>Darsh 8</item>
+        <item>Darsh 9</item>
+        <item>Darsh 10</item>
+    </string-array>
+    <string-array name="descriptions">
+        <item>description 1</item>
+        <item>description 2</item>
+        <item>description 3</item>
+        <item>description 4</item>
+        <item>description 5</item>
+        <item>description 6</item>
+        <item>description 7</item>
+        <item>description 8</item>
+        <item>description 9</item>
+        <item>description 10</item>
+    </string-array>
+    <string-array name="titles2">
+        <item>Darsh 1</item>
+        <item>Darsh 2</item>
+        <item>Darsh 3</item>
+        <item>Darsh 4</item>
+        <item>Darsh 5</item>
+    </string-array>
+    <string-array name="descriptions2">
+        <item>description 1</item>
+        <item>description 2</item>
+        <item>description 3</item>
+        <item>description 4</item>
+        <item>description 5</item>
+    </string-array>
+
+    <string-array name="posi">
+        <item>boycr</item>
+        <item>girlcr</item>
+        <item>boysi</item>
+        <item>girlsi</item>
+        <item>boyci</item>
+        <item>girlci</item>
+        <item>boysri</item>
+        <item>boymi</item>
+        <item>girlsri</item>
+        <item>girlmi</item>
+    </string-array>
+
+
+    <string name="title_activity_last">Last</string>
+    <string name="title_activity_candidates2">Candidates2</string>
+<string name="posboycr">Boy CR</string>
+    <string name="posgirlcr">Girl CR</string>
+    <string name="posboysi">Boy SI</string>
+    <string name="posgirlsi">Girl SI</string>
+    <string name="position">Position</string>
+    <string name="name">Name</string>
+    <string name="count">Count</string>
+    <string name="title_activity_statistics">Statistics</string>
+    <string name="title_activity_fetching_data">FetchingData</string>
+    <string name="title_activity_initial">Initial</string>
+    <string name="title_activity_admin">AdminActivity</string>
+    <string name="title_activity_upload">UploadActivity</string>
+    <string name="title_activity_download">Download</string>
+    <string name="browse_title"><![CDATA[Videos by Your Company]]></string>
+    <string name="related_movies">Related Videos</string>
+    <string name="vertical_grid_title"><![CDATA[Vertical Video Grid]]></string>
+    <string name="error">Error</string>
+    <string name="ok">OK</string>
+    <string name="pause">Pause</string>
+    <string name="play">Play</string>
+    <string name="stop">Stop</string>
+    <string name="init_text">00:00</string>
+    <string name="play_pause_description">Play Pause Button</string>
+    <string name="loading">Loading&#8230;</string>
+    <string name="no_video_found">No video was found</string>
+    <string name="about_app">About DemoCast Player</string>
+    <string name="version">Version: %1$s</string>
+    <string name="popular_header">Popular Videos</string>
+    <string name="preferences">PREFERENCES</string>
+    <string name="grid_view">Grid View</string>
+    <string name="error_fragment">Error Fragment</string>
+    <string name="personal_settings">Personal Settings</string>
+    <string name="watch_trailer_1">Watch trailer</string>
+    <string name="watch_trailer_2">FREE</string>
+    <string name="rent_1">Rent By Day</string>
+    <string name="rent_2">From $1.99</string>
+    <string name="buy_1">Buy and Own</string>
+    <string name="buy_2">AT $9.99</string>
+    <string name="movie">Movie</string>
+    <string name="should_start">shouldStart</string>
+    <string name="start_position">startPosition</string>
+    <string name="search_results">Search Results</string>
+
+    <!-- Error messages -->
+    <string name="video_error_media_load_timeout">Media loading timed out</string>
+    <string name="video_error_server_inaccessible">Media server was not reachable</string>
+    <string name="video_error_unknown_error">Failed to load video</string>
+    <string name="error_fragment_message">An error occurred</string>
+    <string name="dismiss_error">Dismiss</string>
+    <string name="oops">Oops</string>
+    <string name="title_activity_admin_login">AdminLogin</string>
+</resources>

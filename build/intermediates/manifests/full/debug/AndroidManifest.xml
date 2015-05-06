@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.androidbegin.parselogintutorial"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="11"
+        android:targetSdkVersion="15" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission
+        android:name="android.permission.WRITE_EXTERNAL_STORAGE"
+        android:maxSdkVersion="18" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission
+        android:name="android.permission.READ_EXTERNAL_STORAGE"
+        android:maxSdkVersion="18" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+
+    <uses-feature
+        android:name="android.hardware.touchscreen"
+        android:required="false" />
+    <uses-feature
+        android:name="android.software.leanback"
+        android:required="true" />
+
+    <application
+        android:name="com.androidbegin.parselogintutorial.Monish"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name" >
+        <activity
+            android:name="com.androidbegin.parselogintutorial.AdminActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="org.achartengine.GraphicalActivity" />
+        <activity android:name="com.androidbegin.parselogintutorial.LoginSignupActivity" >
+        </activity>
+        <activity android:name="com.androidbegin.parselogintutorial.Welcome" >
+        </activity>
+        <activity android:name="com.androidbegin.parselogintutorial.Signup" >
+        </activity>
+        <activity android:name="com.androidbegin.parselogintutorial.CRA" >
+        </activity>
+        <activity android:name="com.androidbegin.parselogintutorial.SingleItemView" >
+        </activity>
+        <activity
+            android:name="com.androidbegin.parselogintutorial.Dashboard"
+            android:label="@string/title_activity_dashboard" >
+        </activity>
+        <activity android:name="com.androidbegin.parselogintutorial.Candidates" >
+        </activity>
+        <activity android:name="com.androidbegin.parselogintutorial.Positions" >
+        </activity>
+        <activity
+            android:name="com.androidbegin.parselogintutorial.SplashScreenActivity"
+            android:label="splash_screen" >
+        </activity>
+        <activity
+            android:name="com.androidbegin.parselogintutorial.SplashScreenActivity1"
+            android:label="splash_screen_activity1" >
+        </activity>
+        <activity
+            android:name="com.androidbegin.parselogintutorial.ResultsDisplay"
+            android:label="results_display" >
+        </activity>
+        <activity
+            android:name="com.androidbegin.parselogintutorial.Voters"
+            android:label="voters" >
+        </activity>
+        <activity android:name="com.androidbegin.parselogintutorial.Last" >
+        </activity>
+        <activity
+            android:name="com.androidbegin.parselogintutorial.Statistics"
+            android:label="Statistics" >
+        </activity>
+        <activity
+            android:name="com.androidbegin.parselogintutorial.FetchingData"
+            android:label="@string/title_activity_fetching_data" >
+        </activity>
+        <activity
+            android:name="com.androidbegin.parselogintutorial.MainActivity"
+            android:label="@string/title_activity_admin" >
+        </activity>
+        <activity
+            android:name="com.androidbegin.parselogintutorial.Download"
+            android:label="@string/title_activity_download" >
+        </activity>
+        <activity
+            android:name="com.androidbegin.parselogintutorial.AdminLogin"
+            android:icon="@drawable/app_icon_your_company"
+            android:label="@string/title_activity_admin_login"
+            android:logo="@drawable/app_icon_your_company"
+            android:screenOrientation="landscape" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LEANBACK_LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.androidbegin.parselogintutorial.DetailsActivity" />
+        <activity android:name="com.androidbegin.parselogintutorial.PlaybackOverlayActivity" />
+        <activity android:name="com.androidbegin.parselogintutorial.BrowseErrorActivity" />
+    </application>
+
+</manifest>

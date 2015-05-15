@@ -8,8 +8,8 @@ The application provides a different login screen for the admin.
 The developers of the application are the admins and the list of admins is stored in the database. The admin also generates results.
 
 
-![alt tag](![vote](https://cloud.githubusercontent.com/assets/10370575/7658299/9263ed2a-fb56-11e4-997b-6a931cfc9207.png)
+![vote](https://cloud.githubusercontent.com/assets/10370575/7658299/9263ed2a-fb56-11e4-997b-6a931cfc9207.png)
 
 
-![alt tag](![login](https://cloud.githubusercontent.com/assets/10370575/7658335/e9da0666-fb56-11e4-83a8-1ba1c9cac507.png)
+![login](https://cloud.githubusercontent.com/assets/10370575/7658335/e9da0666-fb56-11e4-83a8-1ba1c9cac507.png)
 
